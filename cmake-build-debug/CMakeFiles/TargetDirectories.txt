@@ -1,0 +1,3 @@
+/Users/apple/Desktop/CProjects/Pointers_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/apple/Desktop/CProjects/Pointers_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/apple/Desktop/CProjects/Pointers_1/cmake-build-debug/CMakeFiles/untitled6.dir
