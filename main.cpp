@@ -6,8 +6,6 @@ int main() {
     gets(cumle);
     printf("Girdiginiz cumle\n");
     printf("%s" , &cumle);
-
-
     char* cp = cumle;
     printf("\n");
     printf("%x" ,cp);
